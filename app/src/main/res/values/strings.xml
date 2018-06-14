@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pitca</string>
+    <string name="title_activity_main_presenting">Pitca</string>
+    <color name="colour1">#e3f4ef</color>
+</resources>
